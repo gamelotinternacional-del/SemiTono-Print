@@ -21,6 +21,8 @@ Modelo de Suscripción: Opciones flexibles para acceder a funciones avanzadas y 
 
 📥 Descarga la aplicación
 Puedes obtener la versión más reciente de SemiTono Print a través de las siguientes plataformas:
+[📥 Descargar en Google Play Store](https://bit.ly/3VQIkfN)
+[🛒 Descargar en Payhip](https://payhip.com/b/8kFtL))
 
 🛠️ Tecnologías utilizadas
 Plataforma: Android
