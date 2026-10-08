@@ -24,12 +24,13 @@ Puedes obtener la versión más reciente de SemiTono Print a través de las sigu
 
 🛠️ Tecnologías utilizadas
 Plataforma: Android
-<img width="1104" height="402" alt="semitonoprint_payhip" src="https://github.com/user-attachments/assets/6e8e9955-1ac0-49ca-9e54-134cb420aa28" />
+
 
 Modelo de desarrollo: Independiente (Indie Developer)
 
 Servicios y Monetización: Google AdMob, Google Play Console, GitHub Pages (para políticas de privacidad y soporte).
 
 👨‍💻 Autor
-Desarrollado con dedicación por [Tu Nombre o Tu Usuario de GitHub].
+Desarrollado con dedicación por Gustavo Melo.
 Si tienes sugerencias, comentarios o deseas contactarme para proyectos profesionales, ¡no dudes en conectar conmigo!
+<img width="1104" height="402" alt="semitonoprint_payhip" src="https://github.com/user-attachments/assets/6e8e9955-1ac0-49ca-9e54-134cb420aa28" />
