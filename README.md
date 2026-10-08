@@ -33,6 +33,6 @@ Modelo de desarrollo: Independiente (Indie Developer)
 Servicios y Monetización: Google AdMob, Google Play Console, GitHub Pages (para políticas de privacidad y soporte).
 
 👨‍💻 Autor
-Desarrollado con dedicación por Gustavo Melo.
+Desarrollado con dedicación por Gustavo Andres Melo.
 Si tienes sugerencias, comentarios o deseas contactarme para proyectos profesionales, ¡no dudes en conectar conmigo!
 <img width="1104" height="402" alt="semitonoprint_payhip" src="https://github.com/user-attachments/assets/6e8e9955-1ac0-49ca-9e54-134cb420aa28" />
