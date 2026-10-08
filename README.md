@@ -1,4 +1,4 @@
-![Uploading Screenshot_2026-08-04-12-04-01-288_com.example.semitonoprint.jpg…]()
+
 <img width="1952" height="872" alt="banner-final" src="https://github.com/user-attachments/assets/25fba9e0-5319-4500-8c43-487cb5af31db" />
 📱 SemiTono Print
 Herramienta móvil avanzada y especializada para la optimización de diseños gráficos, preparación de estampados y gestión de flujos de trabajo profesionales.
